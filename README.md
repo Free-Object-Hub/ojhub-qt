@@ -1,4 +1,7 @@
 # Object Hub QT  
+
+**!!WARGNING!!!**
+This is only experimental and vibecoded implementation of Object Hub Client on native-friendly and multiplatform framework, ojhub-qt isn't point of Object Hub future
   
 Claude:  
 Native Qt Widgets client for objecthub.xyz (openGo protocol V133R3).  
